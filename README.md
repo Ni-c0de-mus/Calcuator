@@ -1,2 +1,0 @@
-# Calcuator
-JavaScript
